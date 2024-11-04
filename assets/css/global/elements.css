@@ -1,0 +1,24 @@
+/* botões */
+.botao-verde-primario {
+    padding: 0.8em;
+    background-color: var(--cor-primaria);
+    border-radius: 10px;
+}
+
+.botao-verde-secundario {
+    padding: 0.8em;
+    border: 2px solid var(--cor-primaria);
+    border-radius: 10px;
+}
+
+.botao-branco-primario {
+    padding: 0.8em;
+    background-color: var(--branco);
+    border-radius: 10px;
+}
+
+.botao-branco-secundario {
+    padding: 0.8em;
+    border: 2px solid var(--branco);
+    border-radius: 10px;
+}
