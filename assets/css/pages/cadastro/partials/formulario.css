@@ -67,3 +67,9 @@
 .login:hover {
     transform: scale(1.1);
 }
+
+@media (max-width: 767px) {
+    .form-container {
+        margin: 8%;
+    }
+}
