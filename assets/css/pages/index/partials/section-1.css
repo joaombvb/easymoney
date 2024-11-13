@@ -35,13 +35,12 @@
     font-size: 25px;
     font-weight: 600;
     color: var(--cor-primaria);
-    transition: 0.1s;
+    transition: 0.2s;
     cursor: pointer;
+    border: 2px solid var(--branco);
 }
 
 .section-1 div a:hover {
     background-color: var(--branco-translucido);
-    border: 2px solid var(--branco);
     color: var(--branco);
-
 }
