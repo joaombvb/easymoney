@@ -44,3 +44,10 @@
     background-color: var(--branco-translucido);
     color: var(--branco);
 }
+
+.section-1 img {
+    max-width: 50%;
+    height: auto;
+    object-fit: cover;
+}
+
